@@ -26,6 +26,14 @@
 
 - **Firebase Firestore**: Enjoy real-time chat functionality with Firebase Firestore, ensuring your conversations remain dynamic and engaging.
 
+## LinkedIn Post
+
+Check out our LinkedIn post featuring a video showcasing the project in action! 🎥
+
+🔗 [LinkedIn Post with Video](https://www.linkedin.com/posts/mohamed-ashraf-gaber-67388818b_flutter-dart-chatapp-activity-7100531643949457408-zAH1?utm_source=share&utm_medium=member_desktop)
+
+Feel free to like, share, and comment to let us know your thoughts!
+
 ## Screenshots
 
 <div align="center">
@@ -70,6 +78,14 @@ To get started with "Send It," follow these steps:
    ```bash
    flutter run
    ```
+
+#### Note
+
+- These files are included in the _.gitignore_ file and you have to generate them with your **apiKeys** from **Firebase**
+  - /lib/firebase_options.dart
+  - /android/app/google-services.json
+  - /ios/Runner/GoogleService-Info.plist
+  - /macos/Runner/GoogleService-Info.plist
 
 ## Usage
 
