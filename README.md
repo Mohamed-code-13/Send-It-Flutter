@@ -37,13 +37,13 @@ Feel free to like, share, and comment to let us know your thoughts!
 ## Screenshots
 
 <div align="center">
-  <img src="assets/Screenshot_1.png" alt="Login Screen" width="200"/>
-  <img src="assets/Screenshot_2.png" alt="Sign Up Screen" width="200"/>
-  <img src="assets/Screenshot_3.png" alt="All Chats Screen" width="200"/>
-  <img src="assets/Screenshot_4.png" alt="Profile Screen" width="200"/>
-  <img src="assets/Screenshot_5.png" alt="Settings Screen" width="200"/>
-  <img src="assets/Screenshot_6.png" alt="Search a new friend Screen" width="200"/>
-  <img src="assets/Screenshot_7.png" alt="Chat Room Screen" width="200"/>
+  <img src="screenshots/Screenshot_1.png" alt="Login Screen" width="200"/>
+  <img src="screenshots/Screenshot_2.png" alt="Sign Up Screen" width="200"/>
+  <img src="screenshots/Screenshot_3.png" alt="All Chats Screen" width="200"/>
+  <img src="screenshots/Screenshot_4.png" alt="Profile Screen" width="200"/>
+  <img src="screenshots/Screenshot_5.png" alt="Settings Screen" width="200"/>
+  <img src="screenshots/Screenshot_6.png" alt="Search a new friend Screen" width="200"/>
+  <img src="screenshots/Screenshot_7.png" alt="Chat Room Screen" width="200"/>
 </div>
 
 ## Installation
